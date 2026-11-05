@@ -1,3 +1,6 @@
+Integrantes: Mário César e Vinicius Lemes
+
+
 # 📍 Localizações
 
 Aplicativo Flutter para coleta, armazenamento e visualização de localizações geográficas em tempo real.
